@@ -1,0 +1,27 @@
+.item {
+	height: 600px;
+
+}
+
+.owl-dots {
+    text-align: center;
+    width: 100%;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.owl-dot {
+    border-radius: 50px;
+    height: 12px;
+    width: 12px;
+    display: inline-block;
+    background: rgba(127,127,127, 0.5);
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.owl-dot.active {
+    background: rgba(127,127,127, 1);
+}

@@ -1,0 +1,29 @@
+#gall {
+	max-height: 250px;
+	width: 100%;
+	height: 100%;
+
+}
+
+.gallery {
+	padding: 40px 0;
+	
+}
+
+#gallery {
+	padding: 0;
+}
+
+.reveal {
+	padding: 0;
+
+	p {
+		background-color: black;
+  		color: white;
+  		text-align: center;
+	}
+}
+
+.reveal-overlay {
+	background-color: rgba(0,0,0,.85);
+}
